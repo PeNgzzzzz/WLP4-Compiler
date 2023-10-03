@@ -1,2 +1,2 @@
 # WLP4-Compiler
-A Compiler by University of Waterloo
+A Compiler of WLP4 - a subset of C.
